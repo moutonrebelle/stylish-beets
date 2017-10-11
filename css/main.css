@@ -52,6 +52,11 @@ figcaption {
 
 /* ------------- =Content -------------- */
 
+h2 {
+    font-family: "PT Sans", sans-serif;
+    color: #3f1622;
+}
+
 p.first-child {
   font-size: 1.125rem;
   font-weight: bold;
@@ -63,5 +68,14 @@ blockquote p {
 }
 
 footer {
-  font-size: 0.8rem;
+  font-size: .8rem;
+}
+
+h2.common {
+  list-style-type: georgian;
+}
+
+h2.tags {
+  list-style-type: circle;
+  font-size: .8rem;
 }
