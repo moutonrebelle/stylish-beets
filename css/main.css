@@ -1,7 +1,13 @@
 html {
   background-color: #c9b5ab;
   line-height: 1.5;
-  font-size: 1.125rem
+  font-size: 1.125rem;
   typefaces: "PT Serif";
   color: #222;
+}
+
+h1 {
+  font-size: 1.5rem;
+  typefaces: "PT Sans";
+  color: #3f1622;
 }
