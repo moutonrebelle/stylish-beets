@@ -12,13 +12,12 @@ h1 {
   font-weight: bold;
 }
 
-nav {
+nav > li {
   font-family: "PT Sans", sans-serif;
   text-decoration: none;
   font-weight: bold;
   font-size: 1.125rem;
   color: #8f2440;
-  list-style-type: lower-alpha;
 }
 
 nav a:hover {
