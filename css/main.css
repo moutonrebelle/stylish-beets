@@ -71,11 +71,11 @@ footer {
   font-size: .8rem;
 }
 
-h2.common {
+h2.common dl{
   list-style-type: georgian;
 }
 
-h2.tags li {
+h2.tags ul {
   list-style-type: circle;
   font-size: .8rem;
 }
