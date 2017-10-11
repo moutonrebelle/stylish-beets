@@ -21,8 +21,13 @@ nav {
 }
 
 nav li {
-  list-style-type: lower-alpha;
+  list-style-type: none;
   text-decoration: none;
+  font-family: "PT Sans", sans-serif;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.125rem;
+  color: #8f2440;
 }
 
 nav a:hover {
