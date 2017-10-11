@@ -20,6 +20,11 @@ nav {
   color: #8f2440;
 }
 
+nav li {
+  list-style-type: lower-alpha;
+  text-decoration: none;
+}
+
 nav a:hover {
   color: #3f1622;
 }
