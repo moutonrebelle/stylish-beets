@@ -23,14 +23,18 @@ nav a {
   font-weight: bold;
   font-size: 1.125rem;
   color: #8f2440;
-  a.hover: #3f1622;
 }
 
-nav li {
+li {
   list-style-type: none;
 }
 
-nav a:hover {
+a {
+  text-decoration: none;
+  color: #8f2440;
+}
+
+a:hover {
   color: #3f1622;
 }
 
@@ -43,4 +47,10 @@ img {
 figcaption {
   text-align: center;
   font-style: italic;
+}
+
+/* ------------- =Content -------------- */
+
+p:first-child {
+
 }
