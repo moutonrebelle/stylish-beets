@@ -1,9 +1,13 @@
+/* ------------- =General -------------- */
+
 html {
   background-color: #c9b5ab;
   line-height: 1.5;
   font-family: "PT Serif", serif;
   color: #222;
 }
+
+/* ------------- =Masthead -------------- */
 
 h1 {
   font-family: "PT Sans", sans-serif;
@@ -28,6 +32,13 @@ nav a:hover {
   color: #3f1622;
 }
 
+/* ------------- =Image -------------- */
+
 img {
   width: 100%;
+}
+
+figcaption {
+  font-size: 0.8rem;
+  font-style: italic;
 }
